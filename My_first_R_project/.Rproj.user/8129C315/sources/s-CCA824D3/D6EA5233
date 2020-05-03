@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588497083075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4130567401",
+    "id" : "D6EA5233",
+    "lastKnownWriteTime" : 1588497179,
+    "last_content_update" : 1588497179500,
+    "path" : "D:/Documenten/Data Science/My_first_R_project/TestScript.R",
+    "project_path" : "TestScript.R",
+    "properties" : {
+        "cursorPosition" : "1,35",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
